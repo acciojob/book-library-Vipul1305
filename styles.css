@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	background:#f8f8f8;
+	text-align:center;
+}
+.book,h1{
+	background:#ffffff;
+	padding:20px;
+}
+.book-library{
+	
+	padding:20px;
+}
+p{
+	text-align:left;
+}
+.aut{
+	color:#777777
+}
+.price{
+	text-align:center;
+	background:#2ecc71;
+}
